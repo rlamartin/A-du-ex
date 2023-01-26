@@ -1,5 +1,5 @@
 // It should be noted that this code was copy and pasted from this site: https://www.edureka.co/blog/mvc-architecture-in-java/
-// We put this code here as we plan to use it in the future as a basis and reference for our own model
+// We put this code here as we plan to use it in the future as a basis and reference for our own controller
 package MyPackage;
  
 public class CourseController {
