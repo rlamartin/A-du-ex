@@ -1,7 +1,7 @@
 package dungeonexca;
 
 public class Room{
-    int x_position, y_position;
+    protected int x_position, y_position;
     Arraylist<Demon> demonList = new Arraylist<Demon>();
     Arraylist<Room> resourceList = new Arraylist<Resource>();
     
